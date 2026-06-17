@@ -1,0 +1,71 @@
+.points-info {
+    position: relative;
+    display: inline-block;
+}
+
+.points-info__button {
+    width: 42px;
+    height: 42px;
+
+    border: none;
+    border-radius: 50%;
+
+    cursor: pointer;
+
+    font-size: 1.2rem;
+
+    background: rgba(255,255,255,.08);
+    color: white;
+
+    transition: .2s;
+}
+
+.points-info__button:hover {
+    background: rgba(255,255,255,.15);
+    transform: scale(1.05);
+}
+
+.points-info__popup {
+    position: absolute;
+    top: 55px;
+    right: 0;
+
+    width: 280px;
+
+    padding: 16px;
+
+    border-radius: 16px;
+
+    background: #0f172a;
+    border: 1px solid rgba(255,255,255,.08);
+
+    box-shadow: 0 15px 35px rgba(0,0,0,.35);
+
+    z-index: 999;
+}
+
+.points-info__popup h3 {
+    margin-bottom: 14px;
+    font-size: 1rem;
+    color: white;
+}
+
+.points-rule {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 10px 0;
+
+    border-bottom: 1px solid rgba(255,255,255,.08);
+
+    color: #cbd5e1;
+}
+
+.points-rule:last-child {
+    border-bottom: none;
+}
+
+.points-rule strong {
+    color: #fbbf24;
+}

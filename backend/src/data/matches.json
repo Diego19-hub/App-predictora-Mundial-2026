@@ -1,0 +1,1042 @@
+[
+    {
+        "home_team": "México",
+        "away_team": "Sudáfrica",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-11 16:00:00",
+        "stadium": "Estadio Azteca",
+        "home_score": 2,
+        "away_score": 0
+    },
+    {
+        "home_team": "Corea del Sur",
+        "away_team": "República Checa",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-11 19:00:00",
+        "stadium": "Estadio Akron",
+        "home_score": 2,
+        "away_score": 1
+    },
+    {
+        "home_team": "Canadá",
+        "away_team": "Bosnia y Herzegovina",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-11 22:00:00",
+        "stadium": "BMO Field",
+        "home_score": 1,
+        "away_score": 1
+    },
+    {
+        "home_team": "Estados Unidos",
+        "away_team": "Paraguay",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-12 01:00:00",
+        "stadium": "SoFi Stadium",
+        "home_score": 4,
+        "away_score": 1
+    },
+    {
+        "home_team": "Catar",
+        "away_team": "Suiza",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-12 04:00:00",
+        "stadium": "Levi's Stadium",
+        "home_score": 1,
+        "away_score": 1
+    },
+    {
+        "home_team": "Brasil",
+        "away_team": "Marruecos",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-12 07:00:00",
+        "stadium": "MetLife Stadium",
+        "home_score": 1,
+        "away_score": 1
+    },
+    {
+        "home_team": "Haití",
+        "away_team": "Escocia",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-13 16:00:00",
+        "stadium": "Gillette Stadium",
+        "home_score": 0,
+        "away_score": 1
+    },
+    {
+        "home_team": "Australia",
+        "away_team": "Turquía",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-13 19:00:00",
+        "stadium": "BC Place",
+        "home_score": 2,
+        "away_score": 0
+    },
+    {
+        "home_team": "Alemania",
+        "away_team": "Curazao",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-13 22:00:00",
+        "stadium": "NRG Stadium",
+        "home_score": 7,
+        "away_score": 1
+    },
+    {
+        "home_team": "Países Bajos",
+        "away_team": "Japón",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-14 01:00:00",
+        "stadium": "AT&T Stadium",
+        "home_score": 2,
+        "away_score": 2
+    },
+    {
+        "home_team": "Costa de Marfil",
+        "away_team": "Ecuador",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-14 04:00:00",
+        "stadium": "Lincoln Financial Field",
+        "home_score": 1,
+        "away_score": 0
+    },
+    {
+        "home_team": "Suecia",
+        "away_team": "Túnez",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-14 07:00:00",
+        "stadium": "Estadio BBVA",
+        "home_score": 5,
+        "away_score": 1
+    },
+    {
+        "home_team": "España",
+        "away_team": "Cabo Verde",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-15 16:00:00",
+        "stadium": "Mercedes-Benz Stadium",
+        "home_score": 0,
+        "away_score": 0
+    },
+    {
+        "home_team": "Bélgica",
+        "away_team": "Egipto",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-15 19:00:00",
+        "stadium": "Lumen Field",
+        "home_score": 1,
+        "away_score": 1
+    },
+    {
+        "home_team": "Arabia Saudita",
+        "away_team": "Uruguay",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-15 22:00:00",
+        "stadium": "Hard Rock Stadium",
+        "home_score": 1,
+        "away_score": 1
+    },
+    {
+        "home_team": "Irán",
+        "away_team": "Nueva Zelanda",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-16 01:00:00",
+        "stadium": "SoFi Stadium",
+        "home_score": 2,
+        "away_score": 2
+    },
+    {
+        "home_team": "Francia",
+        "away_team": "Senegal",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-16 04:00:00",
+        "stadium": "MetLife Stadium",
+        "home_score": 3,
+        "away_score": 1
+    },
+    {
+        "home_team": "Irak",
+        "away_team": "Noruega",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-16 07:00:00",
+        "stadium": "Gillette Stadium",
+        "home_score": 1,
+        "away_score": 0
+    },
+    {
+        "home_team": "Argentina",
+        "away_team": "Argelia",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-17 16:00:00",
+        "stadium": "Arrowhead Stadium",
+        "home_score": 3,
+        "away_score": 0
+    },
+    {
+        "home_team": "Austria",
+        "away_team": "Jordania",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-17 19:00:00",
+        "stadium": "Levi's Stadium",
+        "home_score": 1,
+        "away_score": 0
+    },
+    {
+        "home_team": "Portugal",
+        "away_team": "RD Congo",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-17 22:00:00",
+        "stadium": "NRG Stadium",
+        "home_score": 1,
+        "away_score": 0
+    },
+    {
+        "home_team": "Inglaterra",
+        "away_team": "Croacia",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-18 01:00:00",
+        "stadium": "AT&T Stadium",
+        "home_score": 0,
+        "away_score": 2
+    },
+    {
+        "home_team": "Ghana",
+        "away_team": "Panamá",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-18 04:00:00",
+        "stadium": "BMO Field",
+        "home_score": 3,
+        "away_score": 0
+    },
+    {
+        "home_team": "Uzbekistán",
+        "away_team": "Colombia",
+        "stage": "Fase de grupos",
+        "status": "finished",
+        "start_time": "2026-06-18 07:00:00",
+        "stadium": "Estadio Azteca",
+        "home_score": 2,
+        "away_score": 3
+    },
+    {
+        "home_team": "República Checa",
+        "away_team": "Sudáfrica",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-19 16:00:00",
+        "stadium": "Mercedes-Benz Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Suiza",
+        "away_team": "Bosnia y Herzegovina",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-19 19:00:00",
+        "stadium": "BMO Field",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Canadá",
+        "away_team": "Catar",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-19 22:00:00",
+        "stadium": "AAMI Park",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "México",
+        "away_team": "Corea del Sur",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-20 01:00:00",
+        "stadium": "Stade de Tunis",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Estados Unidos",
+        "away_team": "Australia",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-20 04:00:00",
+        "stadium": "Estadio Azteca",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Escocia",
+        "away_team": "Marruecos",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-20 07:00:00",
+        "stadium": "SoFi Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Brasil",
+        "away_team": "Haití",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-21 16:00:00",
+        "stadium": "Stade de Tunis",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Turquía",
+        "away_team": "Paraguay",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-21 19:00:00",
+        "stadium": "Estadio Azteca",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Países Bajos",
+        "away_team": "Suecia",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-21 22:00:00",
+        "stadium": "SoFi Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Alemania",
+        "away_team": "Costa de Marfil",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-22 01:00:00",
+        "stadium": "MetLife Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Ecuador",
+        "away_team": "Curazao",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-22 04:00:00",
+        "stadium": "BC Place",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Túnez",
+        "away_team": "Japón",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-22 07:00:00",
+        "stadium": "AAMI Park",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "España",
+        "away_team": "Arabia Saudita",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-23 16:00:00",
+        "stadium": "MetLife Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Bélgica",
+        "away_team": "Irán",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-23 19:00:00",
+        "stadium": "NRG Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Uruguay",
+        "away_team": "Cabo Verde",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-23 22:00:00",
+        "stadium": "BC Place",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Nueva Zelanda",
+        "away_team": "Egipto",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-24 01:00:00",
+        "stadium": "Mercedes-Benz Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Argentina",
+        "away_team": "Austria",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-24 04:00:00",
+        "stadium": "Hard Rock Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Francia",
+        "away_team": "Irak",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-24 07:00:00",
+        "stadium": "Rose Bowl",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Noruega",
+        "away_team": "Senegal",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-25 16:00:00",
+        "stadium": "Gillette Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Jordania",
+        "away_team": "Argelia",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-25 19:00:00",
+        "stadium": "Hard Rock Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Portugal",
+        "away_team": "Uzbekistán",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-25 22:00:00",
+        "stadium": "Rose Bowl",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Inglaterra",
+        "away_team": "Ghana",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-26 01:00:00",
+        "stadium": "BC Place",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Panamá",
+        "away_team": "Croacia",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-26 04:00:00",
+        "stadium": "Lumen Field",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Colombia",
+        "away_team": "RD Congo",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-26 07:00:00",
+        "stadium": "AAMI Park",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Suiza",
+        "away_team": "Canadá",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-27 16:00:00",
+        "stadium": "BC Place",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Bosnia y Herzegovina",
+        "away_team": "Catar",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-27 19:00:00",
+        "stadium": "Lumen Field",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Marruecos",
+        "away_team": "Haití",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-27 22:00:00",
+        "stadium": "AAMI Park",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Escocia",
+        "away_team": "Brasil",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-28 01:00:00",
+        "stadium": "National Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Sudáfrica",
+        "away_team": "Corea del Sur",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-28 04:00:00",
+        "stadium": "Stade Mohamed V",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "República Checa",
+        "away_team": "México",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-28 07:00:00",
+        "stadium": "Accra Sports Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Curazao",
+        "away_team": "Costa de Marfil",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-29 16:00:00",
+        "stadium": "National Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Ecuador",
+        "away_team": "Alemania",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-29 19:00:00",
+        "stadium": "Stade Mohamed V",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Túnez",
+        "away_team": "Países Bajos",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-29 22:00:00",
+        "stadium": "Accra Sports Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Japón",
+        "away_team": "Suecia",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-30 01:00:00",
+        "stadium": "AAMI Park",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Turquía",
+        "away_team": "Estados Unidos",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-30 04:00:00",
+        "stadium": "Stade de Tunis",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Paraguay",
+        "away_team": "Australia",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-06-30 07:00:00",
+        "stadium": "SoFi Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Noruega",
+        "away_team": "Francia",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-01 16:00:00",
+        "stadium": "Santiago Bernabéu",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Senegal",
+        "away_team": "Irak",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-01 19:00:00",
+        "stadium": "Stade de Tunis",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Cabo Verde",
+        "away_team": "Arabia Saudita",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-01 22:00:00",
+        "stadium": "Estadio Azteca",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Uruguay",
+        "away_team": "España",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-02 01:00:00",
+        "stadium": "SoFi Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Nueva Zelanda",
+        "away_team": "Bélgica",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-02 04:00:00",
+        "stadium": "MetLife Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Egipto",
+        "away_team": "Irán",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-02 07:00:00",
+        "stadium": "NRG Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Panamá",
+        "away_team": "Inglaterra",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-03 16:00:00",
+        "stadium": "SoFi Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Croacia",
+        "away_team": "Ghana",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-03 19:00:00",
+        "stadium": "MetLife Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Colombia",
+        "away_team": "Portugal",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-03 22:00:00",
+        "stadium": "AT&T Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "RD Congo",
+        "away_team": "Uzbekistán",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-04 01:00:00",
+        "stadium": "Accra Sports Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Argelia",
+        "away_team": "Austria",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-04 04:00:00",
+        "stadium": "Lincoln Financial Field",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Jordania",
+        "away_team": "Argentina",
+        "stage": "Fase de grupos",
+        "status": "upcoming",
+        "start_time": "2026-07-04 07:00:00",
+        "stadium": "Hard Rock Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "México",
+        "away_team": "Paraguay",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-06-28 18:00:00",
+        "stadium": "BMO Field",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Argentina",
+        "away_team": "Curazao",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-06-28 21:00:00",
+        "stadium": "BC Place",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Ecuador",
+        "away_team": "Australia",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-06-29 00:00:00",
+        "stadium": "Hard Rock Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Panamá",
+        "away_team": "Jordania",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-06-29 03:00:00",
+        "stadium": "Rose Bowl",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Nueva Zelanda",
+        "away_team": "Arabia Saudita",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-06-29 18:00:00",
+        "stadium": "BC Place",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Japón",
+        "away_team": "Argelia",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-06-29 21:00:00",
+        "stadium": "Lumen Field",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Catar",
+        "away_team": "Egipto",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-06-30 00:00:00",
+        "stadium": "AAMI Park",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Irak",
+        "away_team": "Senegal",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-06-30 03:00:00",
+        "stadium": "National Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Costa de Marfil",
+        "away_team": "RD Congo",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-06-30 18:00:00",
+        "stadium": "Stade Mohamed V",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Marruecos",
+        "away_team": "Bosnia y Herzegovina",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-06-30 21:00:00",
+        "stadium": "Accra Sports Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Túnez",
+        "away_team": "Inglaterra",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-01 00:00:00",
+        "stadium": "Arrowhead Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Bélgica",
+        "away_team": "Países Bajos",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-01 03:00:00",
+        "stadium": "Stade de Tunis",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "República Checa",
+        "away_team": "Escocia",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-01 18:00:00",
+        "stadium": "Estadio Azteca",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Alemania",
+        "away_team": "Suiza",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-01 21:00:00",
+        "stadium": "SoFi Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Portugal",
+        "away_team": "Canadá",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-02 00:00:00",
+        "stadium": "MetLife Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Suecia",
+        "away_team": "Brasil",
+        "stage": "Dieciseisavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-02 03:00:00",
+        "stadium": "Lincoln Financial Field",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "México",
+        "away_team": "Haití",
+        "stage": "Octavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-02 18:00:00",
+        "stadium": "BC Place",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Colombia",
+        "away_team": "Jordania",
+        "stage": "Octavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-02 22:00:00",
+        "stadium": "Lumen Field",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Curazao",
+        "away_team": "Irak",
+        "stage": "Octavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-03 18:00:00",
+        "stadium": "AAMI Park",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Japón",
+        "away_team": "Ghana",
+        "stage": "Octavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-03 22:00:00",
+        "stadium": "National Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Uzbekistán",
+        "away_team": "RD Congo",
+        "stage": "Octavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-04 18:00:00",
+        "stadium": "Stade Mohamed V",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Egipto",
+        "away_team": "República Checa",
+        "stage": "Octavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-04 22:00:00",
+        "stadium": "Accra Sports Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Túnez",
+        "away_team": "Noruega",
+        "stage": "Octavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-05 18:00:00",
+        "stadium": "BC Place",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Croacia",
+        "away_team": "Suiza",
+        "stage": "Octavos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-05 22:00:00",
+        "stadium": "Stade de Tunis",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "México",
+        "away_team": "Australia",
+        "stage": "Cuartos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-07 20:00:00",
+        "stadium": "MetLife Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Paraguay",
+        "away_team": "Uzbekistán",
+        "stage": "Cuartos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-08 20:00:00",
+        "stadium": "Mercedes-Benz Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Irán",
+        "away_team": "Marruecos",
+        "stage": "Cuartos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-09 20:00:00",
+        "stadium": "Mercedes-Benz Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Irak",
+        "away_team": "Bosnia y Herzegovina",
+        "stage": "Cuartos de final",
+        "status": "upcoming",
+        "start_time": "2026-07-10 20:00:00",
+        "stadium": "Lumen Field",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "México",
+        "away_team": "Corea del Sur",
+        "stage": "Semifinal",
+        "status": "upcoming",
+        "start_time": "2026-07-13 20:00:00",
+        "stadium": "AAMI Park",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Panamá",
+        "away_team": "Ghana",
+        "stage": "Semifinal",
+        "status": "upcoming",
+        "start_time": "2026-07-15 20:00:00",
+        "stadium": "National Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Bélgica",
+        "away_team": "Inglaterra",
+        "stage": "Tercer lugar",
+        "status": "upcoming",
+        "start_time": "2026-07-17 19:00:00",
+        "stadium": "Hard Rock Stadium",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "home_team": "Argentina",
+        "away_team": "Brasil",
+        "stage": "Final",
+        "status": "upcoming",
+        "start_time": "2026-07-19 18:00:00",
+        "stadium": "MetLife Stadium",
+        "home_score": null,
+        "away_score": null
+    }
+]

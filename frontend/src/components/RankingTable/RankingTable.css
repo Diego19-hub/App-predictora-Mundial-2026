@@ -1,0 +1,48 @@
+.ranking-table__wrapper {
+    width: 100%;
+    overflow-x: auto;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+
+.ranking-table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 700px;
+}
+
+.ranking-table thead {
+    background: #0f172a;
+    color: white;
+}
+
+.ranking-table th,
+.ranking-table td {
+    padding: 14px 16px;
+    text-align: left;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.ranking-table tbody tr:hover {
+    background: #f8fafc;
+}
+
+.ranking-table__user {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.ranking-table__user img {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #e2e8f0;
+}
+
+.ranking-table__points {
+    font-weight: 800;
+    color: #2563eb;
+}
