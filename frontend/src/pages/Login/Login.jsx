@@ -61,6 +61,15 @@ function Login() {
         } finally {
         setLoading(false);
         }
+
+    const response = await loginUser(form);
+
+    console.log("RESPONSE:", response);
+    console.log("DATA:", response.data);
+    console.log("TOKEN:", response.data?.token);
+    console.log("USER:", response.data?.user);
+
+    login(response.data.token, response.data.user);
     };
 
     return (
