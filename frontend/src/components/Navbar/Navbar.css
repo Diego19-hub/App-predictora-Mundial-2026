@@ -1,11 +1,12 @@
     .navbar {
-    height: 72px;
-    padding: 0 24px;
+    height: 64px;
+    padding: 0 12px;
     background: #0f172a;
     color: white;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 10px;
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -15,28 +16,51 @@
     .navbar__brand {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 10px;
     font-weight: 700;
     cursor: pointer;
+    min-width: 0;
+    flex: none;
     }
 
     .navbar__logo {
-    width: 42px;
-    height: 42px;
+    width: 34px;
+    height: 34px;
     object-fit: contain;
+    flex: none;
+    }
+
+    .navbar__brand span {
+    white-space: nowrap;
+    font-size: 0.95rem;
     }
 
     .navbar__links {
     display: flex;
-    gap: 18px;
+    align-items: center;
+    gap: 8px;
+    flex: 1;
+    min-width: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    }
+
+    .navbar__links::-webkit-scrollbar {
+    display: none;
     }
 
     .navbar__links a {
+    flex: none;
     color: #e5e7eb;
     text-decoration: none;
     font-weight: 600;
-    padding: 8px 12px;
+    font-size: 0.82rem;
+    padding: 7px 10px;
     border-radius: 10px;
+    white-space: nowrap;
+    transition: background 0.2s ease;
     }
 
     .navbar__links a:hover {
@@ -45,6 +69,7 @@
 
     .navbar__user {
     position: relative;
+    flex: none;
     }
 
     .navbar__avatarBtn {
@@ -53,31 +78,33 @@
     color: white;
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 6px;
     cursor: pointer;
+    padding: 0;
     }
 
     .navbar__avatar {
-    width: 38px;
-    height: 38px;
+    width: 34px;
+    height: 34px;
     border-radius: 50%;
     object-fit: cover;
     border: 2px solid white;
     }
 
     .navbar__arrow {
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     }
 
     .navbar__dropdown {
     position: absolute;
     right: 0;
-    top: 52px;
+    top: 48px;
     min-width: 180px;
     background: white;
     border-radius: 14px;
     overflow: hidden;
     box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+    z-index: 1001;
     }
 
     .navbar__dropdown a,
@@ -97,4 +124,37 @@
     .navbar__dropdown a:hover,
     .navbar__dropdown button:hover {
     background: #f3f4f6;
-}
+    }
+
+    /* Desktop */
+    @media (min-width: 768px) {
+    .navbar {
+        height: 72px;
+        padding: 0 24px;
+        gap: 16px;
+    }
+
+    .navbar__brand span {
+        font-size: 1rem;
+    }
+
+    .navbar__logo {
+        width: 42px;
+        height: 42px;
+    }
+
+    .navbar__links {
+        gap: 18px;
+        justify-content: center;
+    }
+
+    .navbar__links a {
+        font-size: 0.95rem;
+        padding: 8px 12px;
+    }
+
+    .navbar__avatar {
+        width: 38px;
+        height: 38px;
+    }
+    }
